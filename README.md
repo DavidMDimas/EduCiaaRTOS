@@ -1,0 +1,2 @@
+# EduCiaaRTOS
+Computadora abierta argentina
